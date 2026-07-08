@@ -16,8 +16,8 @@ I’m currently working on making AI accessible and affordable to masses at Jarv
 
 ### Kernels
 
-1. [Deep Neural Network Keras way](https://www.kaggle.com/poonaml/deep-neural-network-keras-way) (Most popular Kernel 1000+ votes)
-2. [Last cab to New York](https://www.kaggle.com/poonaml/last-cab-to-new-york-animated-heatmap-trips-folium) (Won award in Best Visualization category)
+1. [Deep Neural Network Keras way](https://www.kaggle.com/poonaml/deep-neural-network-keras-way) (Most popular Kernel 3800+ votes)
+2. [Last cab to New York](https://www.kaggle.com/poonaml/last-cab-to-new-york-animated-heatmap-trips-folium) ([Won](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/discussion/39792) award in Best Visualization category)
 3. [Real estate prediction on Zillow with prophet](https://www.kaggle.com/poonaml/real-estate-prediction-on-zillow-with-prophet) (Won weekly kernel award)
 
 
